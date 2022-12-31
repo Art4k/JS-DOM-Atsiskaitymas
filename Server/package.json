@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "advertisement api server",
+  "scripts": {
+    "start": "json-server --watch --port 5001 ./db.json"
+  },
+  "author": "Artur Lastovskij",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

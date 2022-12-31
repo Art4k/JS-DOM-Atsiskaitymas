@@ -1,0 +1,52 @@
+{
+  "prekes": [
+    {
+      "title": "Ausinės Razer V5",
+      "img": "https://avitela.lt/image/cache/catalog/p/148/171/172/9722/PR000097806_01-1080x1000.jpg",
+      "location": "Vilnius",
+      "price": "500",
+      "quality": "Poor",
+      "id": "1"
+    },
+    {
+      "title": "Ausinės Razer",
+      "img": "https://ksd-images.lt/display/aikido/store/f335fde4916ca25a8b127e09e751188d.jpg",
+      "location": "Vilnius",
+      "price": "500",
+      "quality": "Normal",
+      "id": "2"
+    },
+    {
+      "title": "Ausinės Razer",
+      "img": "https://avitela.lt/image/cache/catalog/p/148/171/172/9722/PR000097806_01-1080x1000.jpg",
+      "location": "Vilnius",
+      "price": 500,
+      "quality": "Good",
+      "id": "3"
+    },
+    {
+      "title": "Ausinės Razer",
+      "img": "https://avitela.lt/image/cache/catalog/p/148/171/172/9722/PR000097806_01-1080x1000.jpg",
+      "location": "Vilnius",
+      "price": 500,
+      "quality": "Good",
+      "id": "3"
+    },
+    {
+      "title": "Ausinės Razer",
+      "img": "https://avitela.lt/image/cache/catalog/p/148/171/172/9722/PR000097806_01-1080x1000.jpg",
+      "location": "Vilnius",
+      "price": 500,
+      "quality": "Good",
+      "id": "3"
+    },
+    {
+      "title": "Telefonas",
+      "img": "https://images.ctfassets.net/wcfotm6rrl7u/5DJbaTR77wgCWwvQfSAX7X/c598046003996ac678261f21601212b8/nokia-3310_SS-dark_blue-front_back-int.png",
+      "location": "Klaipeda",
+      "price": "900",
+      "quality": "Excellent",
+      "id": "XR-yqg5"
+    }
+  ]
+}
